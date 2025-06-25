@@ -4,4 +4,4 @@ Documentation for the Equitalent project
 
 ## Index
 
-1. [Introduction](https://agicon-frederik.github.io/equitalent-docs/introduction)
+1. [Introduction](https://agicon-frederik.github.io/equitalent-docs/docs/introduction)
