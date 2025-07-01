@@ -8,3 +8,4 @@ Documentation for the Equitalent project
 
 1. [Introduction](https://agicon-frederik.github.io/equitalent-docs/docs/introduction)
 2. [Profiles](https://agicon-frederik.github.io/equitalent-docs/docs/profiles)
+3. [Templates](https://agicon-frederik.github.io/equitalent-docs/docs/Profiletemplates)
